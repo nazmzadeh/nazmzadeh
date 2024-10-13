@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/nazmzadeh?tab=repositories](https://github.com/nazmzadeh?tab=repositories)
+- 👨‍💻 All of my projects are available at [Projects](https://github.com/nazmzadeh?tab=repositories)
 
 - 📫 How to reach me <a href="mailto:nezaket.mammedzadeh@gmail.com">nezaket.mammedzadeh@gmail.com</a>
 
