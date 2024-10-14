@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! I'm Nezaket Mammedzadeh 👩‍💻</h1>
-<h3 align="center">A passionate frontend developer from Baku, Azerbaijan</h3>
+<h3 align="center">A passionate front-end developer from Baku, Azerbaijan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nazmzadeh&label=Profile%20views&color=0e75b6&style=flat" alt="nazmzadeh" /> </p>
 
